@@ -40,10 +40,11 @@ class Researcher:
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Arsenal
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=DC2626">
-  <img src="https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=DC2626">
+  <img src="https://img.shields.io/badge/Arch_Linux-1a1a1a?style=for-the-badge&logo=archlinux&logoColor=DC2626">
+  <img src="https://img.shields.io/badge/C++-1a1a1a?style=for-the-badge&logo=cplusplus&logoColor=DC2626">
   <img src="https://img.shields.io/badge/C-1a1a1a?style=for-the-badge&logo=c&logoColor=DC2626">
   <img src="https://img.shields.io/badge/Rust-1a1a1a?style=for-the-badge&logo=rust&logoColor=DC2626">
+  <img src="https://img.shields.io/badge/Java-1a1a1a?style=for-the-badge&logo=openjdk&logoColor=DC2626">
   <img src="https://img.shields.io/badge/Bash-1a1a1a?style=for-the-badge&logo=gnubash&logoColor=DC2626">
   <img src="https://img.shields.io/badge/Ghidra-1a1a1a?style=for-the-badge&logoColor=DC2626">
   <img src="https://img.shields.io/badge/Burp_Suite-1a1a1a?style=for-the-badge&logo=burpsuite&logoColor=DC2626">
