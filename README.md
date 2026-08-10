@@ -9,7 +9,7 @@
 </p>
 <br>
 <p align="center">
-  Exploring Rust, Kotlin, Linux internals, and networking. Working toward Security+ and CCNA.
+ Currently learning. Working toward Security+ and CCNA.
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/C++-1a1a1a?style=for-the-badge&logo=cplusplus&logoColor=white">
@@ -32,5 +32,5 @@
 <br>
 <h2 align="center">Nightfall Labs</h2>
 <p align="center">
-  Developer/maintainer at Nightfall Labs - Current Projects are <code>matrix-anticheat</code>
+  Developer/maintainer at Nightfall Labs
 </p>
